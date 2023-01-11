@@ -13,8 +13,14 @@
 .tag {
     padding: .25rem 1rem;
     /* background-image: linear-gradient(to bottom right, #341A31, #20101E); */
-    background: linear-gradient(to bottom right, #341A31, #20101E) padding-box,
+    background: linear-gradient(to bottom right, #341a31, #20101e) padding-box,
                 linear-gradient(to bottom right, #461a41, #510c47) border-box;
     border: 2px solid transparent;
     border-radius: .25rem;
+}
+
+@media screen and (max-width: 500px) {
+    .tags-wrapper {
+        flex-direction: column;
+    }
 }

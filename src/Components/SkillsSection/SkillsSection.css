@@ -5,13 +5,13 @@
     gap: var(--sub-spacer);
 }
 .skills-wrapper {
-    width: 100vw;
-    padding: 0 .5rem;
+    width: 90%;
     max-width: 50rem;
+    padding: 0 .5rem;
     display: grid;
     justify-items: center;
     grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
-    gap: 2.5rem;
+    gap: 1rem;
 }
 .skill {
     display: flex;
@@ -21,8 +21,14 @@
     height: 7rem;
     border: 2px solid #DF29D3;
     border-radius: 1rem;
-    background-image: linear-gradient(to bottom right, #341A31, #20101E)
+    background-image: linear-gradient(to bottom right, #341A31, #20101e)
 }
 .skill svg {
     width: 70%;
+}
+
+@media screen and (max-width: 500px) {
+    .skills-wrapper {
+        gap: 1rem .25rem;
+    }
 }

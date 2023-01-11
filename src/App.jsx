@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   
 
-  return (
+  return (   
     <main>
       <HeroSection/>
       <PortfolioSection/>

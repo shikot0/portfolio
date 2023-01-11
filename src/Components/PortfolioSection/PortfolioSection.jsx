@@ -63,7 +63,7 @@ function PortfolioSection() {
     return(
         <div id="portfolio-section">
             <h2>Portfolio</h2>
-            <div className="portfolio-wrapper scroll-trigger">
+            <div className="portfolio-wrapper_desktop scroll-trigger">
               <img className='laptop-image' src={`${process.env.PUBLIC_URL}/laptop.png`} alt="laptop" />
               <div className="portfolio-images-wrapper">
                 {data.slice(0,5).map((projectDetails, index) => {
@@ -81,6 +81,7 @@ function PortfolioSection() {
                       return (
                       <div className="text-slide" key={index}>
                         <h3>{projectDetails.name}</h3>
+                        <p>Link: <a href='projectDetails.link'>{projectDetails.link}</a></p>
                         <p>{projectDetails.description}</p>
                       </div>
                       )
