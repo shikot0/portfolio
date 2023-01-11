@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Realtime Chat App",
+        "desktopImage": "/Website_Images/realtime-chat-app_desktop.png",
+        "mobileImage": "",
+        "description": "A real time chat app built using React, MongoDB, and NODE.js with Socket.io",
+        "link": "https://reca.vercel.app"
+    },
+    {
+        "name": "Ecommerce page",
+        "desktopImage": "/Website_Images/ecommerce-page_desktop.png",
+        "mobileImage": "/Website_Images/ecommerce-page_mobile.png",
+        "description": "A standard single page Ecommerce site with cart, and image lightbox functionality.",
+        "link": "https://shikot0.github.io/ecommerce-product-page-main/"
+    },
+    {
+        "desktopImage": "/Website_Images/rock-paper-scissors_desktop.png",
+        "mobileImage": "/Website_Images/rock-paper-scissors_mobile.png",
+        "name": "Rock Paper Scissors Game",
+        "description": "A remake of the classic Rock Paper Scissors Game made using React and React-Router.",
+        "link": "https://shikot0.github.io/rock-paper-scissors-game/"
+    },
+    {
+        "name": "List of all the Countries in the world",
+        "desktopImage": "/Website_Images/country-list_desktop.png",
+        "mobileImage": "/Website_Images/country-list_mobile.png",
+        "description": "A website that lists down all the countries of the world, and when a country is clicked on it directs the user to a page with more information about it.",
+        "link": "https://shikot0.github.io/country-list-with-react/"
+    },
+    {
+        "name": "Todo List",
+        "desktopImage": "/Website_Images/todo-list_desktop.png",
+        "mobileImage": "/Website_Images/todo-list_mobile.png",
+        "description": "A simple Todo app, built using React with custom drag and drop functionality.",
+        "link": "https://shikot0.github.io/todo-list-with-react/"
+    },
+    {
+        "name": "Job Listings",
+        "desktopImage": "/Website_Images/job-listings_desktop.png",
+        "mobileImage": "/Website_Images/job-listings_mobile.png",
+        "description": "A site that lets you filter through different job listings (made with dummy data) by the languages/skills required.",
+        "link": "https://shikot0.github.io/static-job-listings-master/"
+    },
+    {
+        "name": "Sunnyside landing page",
+        "desktopImage": "/Website_Images/sunnyside-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/sunnyside-landing-page_mobile.png",
+        "description": "A rather simple yet elegant landing page which is made mostly using CSS Grid.",
+        "link": "https://shikot0.github.io/sunnyside-agency-landing-page-main/"
+    },
+    {
+        "name": "Loopstudios landing page",
+        "desktopImage": "/Website_Images/loopstudios-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/loopstudios-landing-page_mobile.png",
+        "description": "Modern landing page for a dummy company, made by using: CSS Position, Flexbox and Grid.",
+        "link": "https://shikot0.github.io/loopstudios-landing-page-main/"
+    },
+    {
+        "name": "Manage landing page",
+        "desktopImage": "/Website_Images/manage-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/manage-landing-page_mobile.png",
+        "description": "An advanced landing page for a made up company, made with features such as sliders and horizontal scroll snapping.",
+        "link": "https://shikot0.github.io/manage-landing-page-master/"
+    },
+    {
+        "name": "Blogr landing page",
+        "desktopImage": "/Website_Images/blogr-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/blogr-landing-page_mobile.png",
+        "description": "A sleak, responsive and modern landing page which comes together with the use of the mockups.",
+        "link": "https://shikot0.github.io/blogr-landing-page-main/"
+    },
+    {
+        "name": "Bookmark landing page",
+        "desktopImage": "/Website_Images/bookmark-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/bookmark-landing-page_mobile.png",
+        "description": "Landing page for a fictional bookmark manager, this page contains common modern day components such as a slider and an FAQ section.",
+        "link": "https://shikot0.github.io/bookmark-landing-page-master/"
+    },
+    {
+        "name": "Crowdfunding page",
+        "desktopImage": "/Website_Images/crowdfund-page_desktop.png",
+        "mobileImage": "/Website_Images/crowdfund-page_mobile.png",
+        "description": "Crowdfunding page for a fictional product, with the ability to live update the different values once a pledge has been processed.",
+        "link": "https://shikot0.github.io/crowdfunding-product-page-main/"
+    },
+    {
+        "name": "Link Shortening page",
+        "desktopImage": "/Website_Images/link-shortening-page_desktop.png",
+        "mobileImage": "/Website_Images/link-shortening-page_mobile.png",
+        "description": "A page used to send requests to the 'shrtcode API' and then output the shortened link along with a button to copy it.",
+        "link": "https://shikot0.github.io/url-shortening-api-master/"
+    },
+    {
+        "name": "Insure landing page",
+        "desktopImage": "/Website_Images/insure-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/insure-landing-page_mobile.png",
+        "description": "A rather standard, corporate-esque landing page for a fictional insurance company.",
+        "link": "https://shikot0.github.io/insure-landing-page-master/"
+    },
+    {
+        "name": "Fylo dark theme landing page",
+        "desktopImage": "/Website_Images/fylo-dark-theme-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/fylo-dark-theme-landing-page_mobile.png",
+        "description": "A dark theme landing page with both a testimonial and a sign-up section.",
+        "link": "https://shikot0.github.io/fylo-dark-theme-landing-page-master/"
+    },
+    {
+        "name": "Countdown page",
+        "desktopImage": "/Website_Images/countdown_desktop.png",
+        "mobileImage": "/Website_Images/countdown_mobile.png",
+        "description": "A simple countdown timer that always starts 14 days away. This is done by creating a 'new Date()' object as soon as the user opens up the page and then through some basic date manipulation 14 days are then added to the object, which now serves as the countdown timer.",
+        "link": "https://shikot0.github.io/launch-countdown-timer-main/"
+    },
+    {
+        "name": "Base apparel landing page",
+        "desktopImage": "/Website_Images/base-apparel-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/base-apparel-landing-page_mobile.png",
+        "description": "A simple landing page for an upcoming (fictional) company using CSS Grid.",
+        "link": "https://shikot0.github.io/base-apparel-coming-soon-master/"
+    },
+    {
+        "name": "Credit card input Form",
+        "desktopImage": "/Website_Images/dynamic-credit-card-input-form_desktop.png",
+        "mobileImage": "/Website_Images/dynamic-credit-card-input-form_mobile.png",
+        "description": "A credit card input form that updates the credit card mockups as the data is being input.",
+        "link": "https://shikot0.github.io/interactive-card-details-form-main/"
+    },
+    {
+        "name": "Dynamic pricing component",
+        "desktopImage": "/Website_Images/dynamic-pricing-component_desktop.png",
+        "mobileImage": "/Website_Images/dynamic-pricing-component_mobile.png",
+        "description": "A dynamic pricing component with a custom slider and a label that live updates the number of page views and price as the slider value is changed by using the Intl number formatter in Vanilla JS.",
+        "link": "https://shikot0.github.io/interactive-pricing-component-main/"
+    },
+    {
+        "name": "Room landing page",
+        "desktopImage": "/Website_Images/room-landing-page_desktop.png",
+        "mobileImage": "/Website_Images/room-landing-page_mobile.png",
+        "description": "Landing page for a fictional furniture company with a nice slider.",
+        "link": "https://shikot0.github.io/room-homepage-master/"
+    },
+    {
+        "name": "Product tracking dashboard",
+        "desktopImage": "/Website_Images/product-tracking-dashboard_desktop.png",
+        "mobileImage": "/Website_Images/product-tracking-dashboard_mobile.png",
+        "description": "A simple one page site for a time and product tracking dashboard.",
+        "link": "https://shikot0.github.io/project-tracking-intro-component-master/"
+    },
+    {
+        "name": "Product price options",
+        "desktopImage": "/Website_Images/dynamic-price-options_desktop.png",
+        "mobileImage": "/Website_Images/dynamic-price-options_mobile.png",
+        "description": "A simple set of pricing options that update when the toggle button is clicked.",
+        "link": "https://shikot0.github.io/pricing-component-with-toggle-master/"
+    }
+]
